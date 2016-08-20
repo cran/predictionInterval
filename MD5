@@ -1,0 +1,16 @@
+0495fadd475aa9eaa5296580524217be *DESCRIPTION
+8721b65f91fc72877b6c989b72471d59 *LICENSE
+1400dd77b5c59d86494417bc8ab389ea *NAMESPACE
+bfc6ce1d9e49fba4572bbc07ab8079d1 *R/correlationFunctions.R
+7a1098f42cab6bd934c173dea5edad10 *R/dValueFunctions.R
+e59f76af831e2c9fd354d6db3b0a2e00 *R/meanFunctions.R
+4937e276bd2c64166bb31ff2e6ef8aa4 *R/predictionInterval.R
+a3a1f581911b738e8f7b71456db14c6e *R/utilityFunctions.R
+da7d743d938545776c7a4dfe54ecb658 *README.md
+dd690f333952365ffaf54007850d908e *man/pi.d.Rd
+277eb63d853467e3d7f08c3607db3098 *man/pi.d.demo.Rd
+7c564c1c0c8afcc6ffb3196adb0040fb *man/pi.m.Rd
+630c18286e214592e9e50db798c4745f *man/pi.m.demo.Rd
+2ff9c0cb06a2ac31c8b6ed2cf1b6199f *man/pi.r.Rd
+4026e7eda0c701d8db21ac987f24b02f *man/pi.r.demo.Rd
+e8f72bf7c52e40c8d881c5b748f1d47b *man/predictionInterval-package.Rd
